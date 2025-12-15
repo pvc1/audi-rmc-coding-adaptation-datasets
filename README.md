@@ -198,3 +198,6 @@ Example function activation - parameterization with OBDeleven for Android
 * RMC2 vw RMC4, optional equipment reserach: https://www.drive2.ru/l/7508336/
 * ASCII table: https://www.rapidtables.com/code/text/ascii-table.html
 * OBDeleven diagnostic interface (ref link): http://mr-fix.info/redirect/obdeleven
+
+## Too good to be free?
+Coffee-powered development ☕ BuyCoffee → https://buycoffee.to/mrfix
